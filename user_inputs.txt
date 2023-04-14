@@ -3,16 +3,16 @@ Be very careful not to make spelling mistakes or use space characters at the beg
 This file should only have to be edited once.
 ----------------------------------------------------------------
 SUPERCOMPUTER USERNAME:
-robertguest
+example_user
 ----------------------------------------------------------------
 SUPERCOMPUTER PASSWORD:
-ireallyhatesupercomputers
+example_password
 ----------------------------------------------------------------
 SUPERCOMPUTER FOLDER PATH THAT YOU WILL BE USING:
-/ichec/work/ulphy066c/Robert
+/ichec/work/ulphy066c/example_user
 ----------------------------------------------------------------
 EMAIL ADDRESS FOR FILE SUBMISSIONS TO BE SENT TO:
-19233213@studentmail.ul.ie
+example_email
 ----------------------------------------------------------------
 SUPERCOMPUTER PROJECT GROUP CODE:
 ulphy066c
