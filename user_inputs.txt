@@ -1,0 +1,19 @@
+Please type the relevant details in the lines underneath the descriptions. 
+Be very careful not to make spelling mistakes or use space characters at the beginning or end.
+This file should only have to be edited once.
+----------------------------------------------------------------
+SUPERCOMPUTER USERNAME:
+robertguest
+----------------------------------------------------------------
+SUPERCOMPUTER PASSWORD:
+ireallyhatesupercomputers
+----------------------------------------------------------------
+SUPERCOMPUTER FOLDER PATH THAT YOU WILL BE USING:
+/ichec/work/ulphy066c/Robert
+----------------------------------------------------------------
+EMAIL ADDRESS FOR FILE SUBMISSIONS TO BE SENT TO:
+19233213@studentmail.ul.ie
+----------------------------------------------------------------
+SUPERCOMPUTER PROJECT GROUP CODE:
+ulphy066c
+----------------------------------------------------------------
